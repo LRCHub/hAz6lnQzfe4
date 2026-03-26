@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "base_track": "Summer Paradise",
+  "base_artist": "Simple Plan",
+  "createdAt": "2026-03-26T14:57:20.019541Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan, Sean Paul",
+      "has_synced": true,
+      "path": "select/01_Summer_Paradise_Simple_Plan,_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer Paradise - Single Version",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/02_Summer_Paradise_-_Single_Version_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Summer Paradise (No Rap Version)",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/03_Summer_Paradise_(No_Rap_Version)_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. K'naan)",
+      "artist": "Simple Plan feat. K'NAAN",
+      "has_synced": true,
+      "path": "select/04_Summer_Paradise_(feat._K'naan)_Simple_Plan_feat._K'NAAN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. K'naan)",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/05_Summer_Paradise_(feat._K'naan)_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Sean Paul)",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/06_Summer_Paradise_(feat._Sean_Paul)_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan (ft. K'naan)",
+      "has_synced": true,
+      "path": "select/07_Summer_Paradise_Simple_Plan_(ft._K'naan).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan (ft. Sean Paul)",
+      "has_synced": true,
+      "path": "select/08_Summer_Paradise_Simple_Plan_(ft._Sean_Paul).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Summer Paradise (No Rap)",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/09_Summer_Paradise_(No_Rap)_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan Ft. Sean Paul",
+      "has_synced": true,
+      "path": "select/10_Summer_Paradise_Simple_Plan_Ft._Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan Feat Sean Paul",
+      "has_synced": true,
+      "path": "select/11_Summer_Paradise_Simple_Plan_Feat_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Sean Paul) - Single Version",
+      "artist": "Simple Plan feat. Sean Paul",
+      "has_synced": false,
+      "path": "select/12_Summer_Paradise_(feat._Sean_Paul)_-_Single_Version_Simple_Plan_feat._Sean_Paul.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Sean Paul)",
+      "artist": "Simple Plan, Sean Paul",
+      "has_synced": true,
+      "path": "select/13_Summer_Paradise_(feat._Sean_Paul)_Simple_Plan,_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan; Sean Paul",
+      "has_synced": true,
+      "path": "select/14_Summer_Paradise_Simple_Plan;_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from One OK Rock)",
+      "artist": "Simple Plan feat. Taka from ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/15_Summer_Paradise_(feat._Taka_from_One_OK_Rock)_Simple_Plan_feat._Taka_from_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan; Taka",
+      "has_synced": true,
+      "path": "select/16_Summer_Paradise_Simple_Plan;_Taka.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan\\Sean Paul",
+      "has_synced": true,
+      "path": "select/17_Summer_Paradise_Simple_Plan_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Summer Paradise - feat. K'naan",
+      "artist": "Simple Plan feat. K'NAAN",
+      "has_synced": true,
+      "path": "select/18_Summer_Paradise_-_feat._K'naan_Simple_Plan_feat._K'NAAN.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan feat. K’naan",
+      "has_synced": true,
+      "path": "select/19_Summer_Paradise_Simple_Plan_feat._K’naan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summer Paradise (feat. Taka from ONE OK ROCK)",
+      "artist": "Simple Plan",
+      "has_synced": false,
+      "path": "select/pl_01_Summer_Paradise_(feat._Taka_from_ONE_OK_ROCK)_Simple_Plan.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/localdb_01_Summer_Paradise_Simple_Plan.lrc",
+      "repo_name": "nUroTcw0YyU"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Summer Paradise",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/localdb_02_Summer_Paradise_Simple_Plan.lrc",
+      "repo_name": "qjHlgrGsLWQ"
+    }
+  ]
+}
